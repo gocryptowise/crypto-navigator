@@ -69,6 +69,8 @@ Nearly all cryptocurrencies in existence require a wallet in order to hold funds
 ## Anonymize
 [Needs content] [Read more](./privacy/privacy.md)
 
+## Wallet guides
+https://gocryptowise.com/the-best-bitcoin-and-cryptocurrency-wallets/
 
 ## Navigator
 - [Step 0](./step0.md) - The "Whys" of cryptocurrency and blockchains
